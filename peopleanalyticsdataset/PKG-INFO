@@ -1,0 +1,14 @@
+UPDATE WITH MY DATA
+
+
+Metadata-Version: 1.0
+Name: PeopleAnalyticsDatasets
+Version: 0.2.0
+Summary: Provides instant access to many popular datasets right from Python (in dataframe structure).
+Home-page: https://github.com/iamaziz/PyDataset
+Author: Aziz Alto
+Author-email: iamaziz.alto@gmail.com
+License: MIT
+Download-URL: https://github.com/iamaziz/PyDataset/tarball/0.2.0
+Description: UNKNOWN
+Platform: UNKNOWN
